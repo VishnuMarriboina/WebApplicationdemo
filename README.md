@@ -6,3 +6,4 @@ This project contains:
 - **backend** (Node.js / Express / etc.)
 
 Common `.gitignore` is used for both frontend and backend.
+Testing the user 
